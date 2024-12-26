@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0c0c0c;/* Gradient background for the entire page */
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-navbar {
+    background: #0c0c0c ;/* Gradient background for navbar */
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+   
+}
+
+.navbar a {
+    font-size: 1rem;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar a:hover {
+    color: #28a745;
+}
+
+.btn-signin {
+    border-radius: 20px;
+}
+
+.main-content {
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.main-content h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.special-font {
+    color: #28a745;
+    font-style: italic;
+}
+
+.stats {
+    margin-top: 40px;
+}
+
+.stat-item h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.stat-item p {
+    font-size: 1.1rem;
+    color: #bbb;
+}
+
+.video-section {
+    background: #0c0c0c;
+    padding: 50px 20px;
+    color: white;
+}
+
+.video-section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+iframe {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.footer {
+    padding: 20px 0;
+}
+
+.footer a {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#view3 .top h1 span {
+    font-family: "neueMachina";
+}
